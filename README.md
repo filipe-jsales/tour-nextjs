@@ -1,4 +1,4 @@
-###Install Dependencies
+## Install Dependencies
 ```
 cd src
 npm install 
